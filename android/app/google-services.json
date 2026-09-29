@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "422614900421",
+    "project_id": "crud-1a5f7",
+    "storage_bucket": "crud-1a5f7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422614900421:android:a30de95a2db6e403679aac",
+        "android_client_info": {
+          "package_name": "com.example.labexam2_ponce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHASVKZDZDsn5wC5XnyTdbVo7nfSzoxns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
